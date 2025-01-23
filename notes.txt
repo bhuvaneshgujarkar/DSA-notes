@@ -1,4 +1,7 @@
 look at a Problem --> find a solution --> create a flowchart or pseudocode for the problem -->
 it will be a rough solution --> build a program for problem that will be high level language --> as the language is high level language make it machine understandable.
 
-Hi
+for saving changes in git file inside vscode 
+1) git add .
+2) git commit -m "your message"
+3) git push 
