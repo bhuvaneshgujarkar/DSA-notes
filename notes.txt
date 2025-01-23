@@ -5,3 +5,13 @@ for saving changes in git file inside vscode
 1) git add .
 2) git commit -m "your message"
 3) git push 
+
+flowchart --> diagramatic approach of our solution.
+terminator --> start and end (_)
+input/output --> /_/
+process --> simple rectangle
+decision making --> diamond
+arrows for the connector
+
+
+Pseudocode --> way of generic representation of logic
