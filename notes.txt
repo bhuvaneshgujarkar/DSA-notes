@@ -15,3 +15,22 @@ arrows for the connector
 
 
 Pseudocode --> way of generic representation of logic
+
+Loops 
+
+prime number
+A number is said to be prime when it gets divided by 1 and the number
+itself. for applying logic we check like if we have n=5
+then from 2 to n-1 i.e upto 4 it's remainder should not be
+zero otherwise it's not a prime number.
+eg:- 5%2=1, 5%3=2, 5%4=1 hence none of the remainder is 0
+hence number 5 is prime.
+
+what is programming language?
+A programming language is a set of rules and instructions that a 
+computer can understand and execute. It is a way of communicating
+with a computer in order to get it to perform a specific task.
+
+why we need programming language?
+we need programming language just to convert our human interpretable language
+into the machine understandable language.
