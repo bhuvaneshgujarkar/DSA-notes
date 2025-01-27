@@ -1,3 +1,4 @@
+****LECTURE 1****
 look at a Problem --> find a solution --> create a flowchart or pseudocode for the problem -->
 it will be a rough solution --> build a program for problem that will be high level language --> as the language is high level language make it machine understandable.
 
@@ -34,3 +35,95 @@ with a computer in order to get it to perform a specific task.
 why we need programming language?
 we need programming language just to convert our human interpretable language
 into the machine understandable language.
+
+compiler 
+it is a translator.
+it finds error.
+
+we use << in cpp to write our program.
+; this denotes line end.
+
+
+
+
+
+
+****LECTURE 2****
+Data types and variables.
+int - 4 byte/ 2 byte i.e 32 bits/64 bits
+char -  1 byte i.e 8 bits
+bool - 1 bits
+float - 8 byte i.e 64 bits
+double - same as float
+
+how data is stored?
+the number that has been entered is converted into binary
+for eg: 8 --> 1000 this is 4 bit and then it is converted 
+into storage i.e as we know 4 byte = 32 bit
+so it will be 00000000 00000000 00000000 00001000
+in this form it is stored in the memory.
+
+then about char as we know char is of 1 byte and for eg: if we
+consider char as 'a' then it's ascii is 97. now this 97 
+is converted into binary value and then it is stored in 8 bits table just like int.
+
+compiler will identify value by data type.
+
+typecasting --> process of converting value of one data type to another data type.
+
+max value that can be stored in integer is 2^32-1
+as it has 32 bit hence it can store 2^32-1.
+and min value will be 0.
+
+max value that can be stored in char is 2^8-1.
+
+how negative numbers are stored?
+at first it looks for first bit of storage.
+i.e if number is positive then it start with 0 else it starts
+with 1. 
+eg:- -5 1) ignore the -ve sign.
+2) convert into binary(101)
+3) take 2's compliment
+
+Operators:-
++ , -, *, /.
+int/int = int
+float/int = float
+double/int = double
+
+Relational operators:
+=, >, <, >=, <=, !=
+
+Logical operators:
+&&, ||, !
+
+
+
+
+
+
+
+****LECTURE 3****
+Conditionals and Loops
+if Condition
+
+if(condition)
+{
+    --------
+    --------
+}
+
+if-else
+if(condition)
+{
+    ------
+    ------
+}
+else
+{
+    ------
+    ------
+}
+
+cin>>n; here cin is the function that stores 
+variables and wait to get input value for that variable.
