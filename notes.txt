@@ -127,3 +127,25 @@ else
 
 cin>>n; here cin is the function that stores 
 variables and wait to get input value for that variable.
+
+if-elseif-else condition
+if(condition)
+{
+    ------
+    ------
+}
+else if(condition)
+{
+    ------
+    ------
+}
+else
+{
+    ------
+    ------
+}
+if we want we can add multiplt if loops, or multiple else if, or looping of if inside
+else.
+ascii value of 0 to 9 is 48 to 57
+ascii value of A to Z is 65 to 90
+ascii value of a to z is 97 to 122
